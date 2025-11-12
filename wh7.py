@@ -14,8 +14,3 @@ while i <= n:
     square = i ** 2
     print(f"The square of {i} is {square}")
     i = i + 1
-
-# WAP to print first n natural number in reverse order
-# start = n , stop = 1, step = -1 
-# Example -> n = 6
-# 6 5 4 3 2 1  
