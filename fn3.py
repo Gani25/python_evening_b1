@@ -7,3 +7,4 @@ l = int(input("Enter length of a rectangle: "))
 b = int(input("Enter length of a breadth: "))
 
 area_of_rectangle(breadth = b,length = l)
+
