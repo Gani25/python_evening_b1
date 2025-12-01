@@ -26,7 +26,3 @@ n = int(input("Enter a number: "))
 
 prime_number_series(num=n)
 
-# create a function to check whether the number is Armstrong Number or Not
-
-# create a function to print series of Armstrong Number from 1 to n
-n = 10000 
