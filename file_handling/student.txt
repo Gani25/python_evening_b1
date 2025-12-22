@@ -1,4 +1,4 @@
-1 Shruti Shinde Female
-2 Rohini Chavan Female
-3 Ashish Verma Male
-4 Saurabh Gupyta Male
+Hello World
+I am learning python
+Python File Handling
+SPRK Tech
